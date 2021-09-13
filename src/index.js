@@ -2,7 +2,7 @@
 
 import Divider from './divider/Divider.jsx';
 import Heading from './heading/Heading.jsx';
-import Image from './image/Image.jsx';
+
 import Italic from './italic/Italic.jsx';
 import Link from './link/Link.jsx';
 import List from './list/List.jsx';

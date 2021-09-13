@@ -5,7 +5,9 @@ const Heading = ({ children }) => (
   <h3 className="mc-toc-title" dir="ltr" style={styles.title}>
     <span style={styles.spanFont}>
       <span style={styles.spanSize} data-testid="headingChildrenTest">
+
         {children}
+        
       </span>
     </span>
   </h3>

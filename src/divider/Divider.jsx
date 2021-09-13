@@ -26,7 +26,9 @@ const Divider = () => (
             <tbody>
               <tr>
                 <td style={styles.td}>
+
                   <span />
+                  
                 </td>
               </tr>
             </tbody>
