@@ -1,5 +1,5 @@
 import React from 'react';
-import Strong from '../strong';
+import Strong from '../Strong';
 import { styles } from './styles';
 
 const SubTitle = ({ children }) => (
