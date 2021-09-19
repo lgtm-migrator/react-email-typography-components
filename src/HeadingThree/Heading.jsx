@@ -1,7 +1,7 @@
 import React from 'react';
 import { styles } from './styles';
 
-const Heading = ({ children }) => (
+const HeadingThree = ({ children }) => (
   <h3 className="mc-toc-title" dir="ltr" style={styles.title}>
     <span style={styles.spanFont}>
       <span style={styles.spanSize} data-testid="headingChildrenTest">
@@ -13,4 +13,4 @@ const Heading = ({ children }) => (
   </h3>
 );
 
-export default Heading;
+export default HeadingThree;
