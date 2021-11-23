@@ -31,4 +31,15 @@ My requirements for this package were
 5. Use `storybook`
 6. Make the exported components really simple
 
+Components
 
+- Divider
+- HeadingOne
+- HeadingThree
+- Italic
+- Link
+- List
+- Paragraph
+- Separator
+- Strong
+- Subtitle
