@@ -43,3 +43,7 @@ Components
 - Separator
 - Strong
 - Subtitle
+
+
+steal beauty from https://getbootstrap.com/docs/4.0/content/typography/ or https://github.com/mdbootstrap/mdb-react-ui-kit/blob/master/app/src/styles/Typography/Typography.tsx
+
