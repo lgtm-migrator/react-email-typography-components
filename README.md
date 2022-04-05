@@ -31,6 +31,30 @@ My requirements for this package were
 5. Use `storybook`
 6. Make the exported components really simple
 
+
+```bash
+├── xxx
+│   ├── xxx
+│   │   ├── **/*.xxx
+│   ├── xxx
+│   ├── images
+│   ├── xxx
+│   ├── js
+│   │   ├── **/*.js
+│   └── xxx
+├── dist (or build)
+├── 
+├── 
+├── 
+├── 
+├── README.md
+├── package.json
+├── 
+└── .gitignore
+```
+
+
+
 Components
 
 - Divider
